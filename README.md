@@ -1,8 +1,8 @@
-# FaceVoice-AI
+ FaceVoice-AI
 
 Developed a GUI-based voice assistant using Python and Tkinter.
 
-Implemented face detection with OpenCV for basic user verification.
+Implemented face detection with OpenCV for basic user face Detection.
 
 Integrated voice commands using speech_recognition and pyttsx3.
 
